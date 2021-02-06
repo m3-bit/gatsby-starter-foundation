@@ -28,6 +28,7 @@ collections:
       - { label: 'Template', name: 'template', widget: 'hidden', default: 'blog-post'}
       - { label: 'Title', name: 'title', widget: 'string', tagname: 'h1' }
       - { label: 'Slug', name: 'slug', widget: 'string', hint: 'Start slug with /. Use only alphanumeric characters, - and _. Avoid spaces in any cases.'}
+      - { label: 'Tags', name: 'tags', widget: 'list' }
       - {
           label: 'Publish Date',
           name: 'date',
@@ -46,7 +47,6 @@ collections:
         }
 
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
-      - {label: "Tags", name: "tags", widget: "list"}
   - label: "Pages"
     name: "pages"
     files:
