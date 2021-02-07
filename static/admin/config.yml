@@ -45,7 +45,8 @@ collections:
           required: false,
           tagname: ''
         }
-
+      - { label: 'videoSrcURL', name: 'videoSrcURL', widget: 'string' }
+      - { label: 'videoTitle', name: 'videoTitle', widget: 'string' }
       - { label: 'Body', name: 'body', widget: 'markdown', hint: 'Main content goes here.' }
   - label: "Pages"
     name: "pages"
