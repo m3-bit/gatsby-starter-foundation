@@ -6,7 +6,7 @@ tags:
   - Eminem
 date: 2020-05-13 12:55
 description: How we scaled an Extreme gaming extravaganza
-featuredImage: ""
+featuredImage: http://img.youtube.com/vi/EosMazKaPbU/sddefault.jpg
 ---
 [Amazonからのダウンロードはこちら↓](https://www.blogger.com/blog/post/edit/7249223017243835856/1957566415019585387#)
 
