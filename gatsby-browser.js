@@ -8,6 +8,3 @@ export const onServiceWorkerUpdateReady = () => {
     window.location.reload()
   }
 }
-
-// gatsby-browser.js
-require("prismjs/themes/prism-vsc-dark.css")
