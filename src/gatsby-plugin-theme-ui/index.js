@@ -2,7 +2,7 @@ export default {
   colors: {
     text: '#000',
     background: '#fff',
-    primary: '#5C2941',
+    primary: '#f75990',
     accent: '#fff',
     muted: 'rgba(0, 0, 0, 0.7)',
     cardBg: '#fff',
@@ -11,7 +11,7 @@ export default {
     inputBorder: "#aaa",
     inputBackground: "#fff",
     socialIcons:"#a8959e",
-    socialIconsHover:"#5c2941",
+    socialIconsHover:"#494D5F",
     modes: {
       dark: {
         text: '#f5f5f5',

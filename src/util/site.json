@@ -1,12 +1,12 @@
 {
   "meta": {
-    "title": "MyKindaTech",
+    "title": "KoolmusiK",
     "titleTemplate": "%s",
-    "description": "Tech blog by m3-bit",
-    "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "description": "Music blog by m3-bit",
+    "siteUrl": "https://koolmusik.netlify.app/",
+    "image": "/assets/logo.png",
+    "iconimage": "/assets/logo.png",
+    "twitterUsername": "@bit_m3"
   },
   "ga": "UA-XXXXXXXXX-X"
 }

@@ -1,7 +1,7 @@
 @import "theme-variables";
 @import "defaults";
 @import "lib/css-grid-utility";
-
+@import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
 // .primary-container {
 // 	display: grid;
 // 	grid-template-rows: 60px auto 60px;
@@ -16,6 +16,7 @@
   align-items: center;
   position: relative;
   padding: 30px 20px;
+	font-family: 'Audiowide', cursive;
 }
 .site-navigation {
   ul {
