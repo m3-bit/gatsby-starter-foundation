@@ -53,7 +53,7 @@ videoTitle: Gnat - Eminem
 
 *nothing you say*は「何を言ったところで」っていう感じですが、これは他のラッパーに向けた言葉です。「どんな言葉を吐いたところでお前は勝てない」、要するにどんなラッパーが挑戦したところでエミネムには勝てない、という売り言葉です。
 
-- - -
+
 
 > mic, pencil get killed
 
@@ -63,7 +63,7 @@ videoTitle: Gnat - Eminem
 で、これどう聞いても、*Mike Pence'll get killed（マイク・ペンスは殺される）*に聞こえるところがミソ。
 マイク・ペンスはトランプ政権時の副大統領。
 
-- - -
+
 
 > If you're hypersensitive
 
@@ -71,7 +71,7 @@ videoTitle: Gnat - Eminem
 
 マイク・ペンス...と聞こえたならあなたは過敏症です。と仮定して次に続きます。
 
-- - -
+
 
 > I wasn't referencin' the vice president, chill
 
