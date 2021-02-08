@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Gnat - Eminem の和訳
+title: Gnat - Eminem はコロナと米大統領選の曲【洋楽歌詞解説 & 一部和訳】
 slug: /gnat-eminem
 tags:
   - Eminem
@@ -9,9 +9,8 @@ date: 2021-02-08 12:55
 description: 現役翻訳者による洋楽歌詞考察系ブログ。エミネム『ナット』を取り上げています。英語学習にも役立ちます！
 featuredImage: /assets/gnat_eminem.jpg
 videoSrcURL: https://www.youtube.com/embed/EosMazKaPbU
-videoTitle: "Gnat - Eminem"
+videoTitle: Gnat - Eminem
 ---
-
 ## 概要
 
 エミネム11枚目のアルバム*[Music to Be Murdered By](https://amzn.to/2N5r5UR)*からのシングル。
@@ -28,7 +27,7 @@ videoTitle: "Gnat - Eminem"
 
 </div>
 
----
+- - -
 
 ## 歌詞
 
@@ -42,9 +41,7 @@ videoTitle: "Gnat - Eminem"
 >
 > *過敏症なの？ 別に副大統領のことを言ってるわけじゃないから落ち着けよ*
 
-
 ## 解説
-
 
 #### Ain't nothing you say could ever trump
 
@@ -52,9 +49,9 @@ videoTitle: "Gnat - Eminem"
 
 *trump*は元米大統領のドナルド・トランプにかかってます。ここでは「〜に勝つ」という動詞。
 
-*nothing you say*は「何を言ったところで」っていう感じですが、これは他のラッパーに向けた言葉です。「どんな言葉を吐いたところでお前は勝てない」、要するにどんなラッパーが挑戦したところでエミネムには勝てない、というよくあるやつです。
+*nothing you say*は「何を言ったところで」っていう感じですが、これは他のラッパーに向けた言葉です。「どんな言葉を吐いたところでお前は勝てない」、要するにどんなラッパーが挑戦したところでエミネムには勝てない、という売り言葉です。
 
----
+- - -
 
 #### mic, pencil get killed
 
@@ -64,15 +61,15 @@ videoTitle: "Gnat - Eminem"
 で、これどう聞いても、*Mike Pence'll get killed（マイク・ペンスは殺される）*に聞こえるところがミソ。
 マイク・ペンスはトランプ政権時の副大統領。
 
----
+- - -
 
 #### If you're hypersensitive
 
 *hypersensitive*は「過敏症」のこと。
 
-今言ったこと、気になってるならあなたは過敏症です！
+マイク・ペンス...と聞こえたならあなたは過敏症です。と仮定して次に続きます。
 
----
+- - -
 
 #### I wasn't referencin' the vice president, chill
 
