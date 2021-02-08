@@ -4,8 +4,8 @@
     "titleTemplate": "%s",
     "description": "Music blog by m3-bit",
     "siteUrl": "https://koolmusik.netlify.app/",
-    "image": "/assets/m3-bit_logo.jpg",
-    "iconimage": "/assets/m3-bit_logo.jpg",
+    "image": "/assets/logo.png",
+    "iconimage": "/assets/logo.png",
     "twitterUsername": "@bit_m3"
   },
   "ga": "UA-XXXXXXXXX-X"
