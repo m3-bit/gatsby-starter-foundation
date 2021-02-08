@@ -6,7 +6,7 @@ tags:
   - Eminem
   - Hip Hop
 date: 2021-02-08 12:55
-description: 現役翻訳者による洋楽歌詞考察系ブログ。エミネム『ナット』を取り上げています。英語学習にも役立ちます！
+description: 現役翻訳者（本当はiOS開発者）による洋楽歌詞考察系ブログ。事前調査で面白かったものや役に立ちそうな内容を記事にしています。自分のメモ的な役割です。英語学習にご活用いただければうれしいです！取り上げるジャンルはヒップホップが多くなるかもしれないですが、ロックやブルースを特に聴いてる人です。今回はエミネム『ナット』を取り上げています。
 featuredImage: /assets/gnat_eminem.jpg
 videoSrcURL: https://www.youtube.com/embed/EosMazKaPbU
 videoTitle: Gnat - Eminem
@@ -21,11 +21,7 @@ videoTitle: Gnat - Eminem
 
 それ以外にもアメリカの大統領選や、薬物中毒についても触れられています。
 
-<div align="center">
 
-<a href="https://www.amazon.co.jp/-/en/dp/B08QYYM7BY?dchild=1&keywords=gnat&qid=1610929206&s=dmusic&sr=1-1&linkCode=li3&tag=koolmusik-22&linkId=6a45e34092f0f1a074618d936a971dbe&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08QYYM7BY&Format=_SL500_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=koolmusik-22&language=en_US" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=koolmusik-22&language=en_US&l=li3&o=9&a=B08QYYM7BY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
-
-</div>
 
 - - -
 
@@ -34,16 +30,22 @@ videoTitle: Gnat - Eminem
 > *Ain't nothin' you say could ever trump, mic, pencil get killed*
 >
 > *If you're hypersensitive, I wasn't referencin' the vice president, chill*
-
-## 和訳
-
+>
 > *お前が吐く言葉で勝てるわけないだろ、マイク、ペンシルはぶちのめされるさ*
 >
 > *過敏症なの？ 別に副大統領のことを言ってるわけじゃないから落ち着けよ*
+>
+
+
+<div align="center">
+
+<a href="https://www.amazon.co.jp/-/en/dp/B08QYYM7BY?dchild=1&keywords=gnat&qid=1610929206&s=dmusic&sr=1-1&linkCode=li3&tag=koolmusik-22&linkId=6a45e34092f0f1a074618d936a971dbe&language=en_US&ref_=as_li_ss_il" target="_blank"><img border="0" src="//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&ASIN=B08QYYM7BY&Format=_SL500_&ID=AsinImage&MarketPlace=JP&ServiceVersion=20070822&WS=1&tag=koolmusik-22&language=en_US" ></a><img src="https://ir-jp.amazon-adsystem.com/e/ir?t=koolmusik-22&language=en_US&l=li3&o=9&a=B08QYYM7BY" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+
+</div>
 
 ## 解説
 
-#### Ain't nothing you say could ever trump
+> Ain't nothing you say could ever trump
 
 ここの部分はもろに大統領選の話題。
 
@@ -53,7 +55,7 @@ videoTitle: Gnat - Eminem
 
 - - -
 
-#### mic, pencil get killed
+> mic, pencil get killed
 
 そしてラップに必要なものはマイクと鉛筆。
 比喩的に「（俺に挑戦したところで）お前のマイクと鉛筆は殺される」と畳みかけてるわけです。
@@ -63,7 +65,7 @@ videoTitle: Gnat - Eminem
 
 - - -
 
-#### If you're hypersensitive
+> If you're hypersensitive
 
 *hypersensitive*は「過敏症」のこと。
 
@@ -71,10 +73,10 @@ videoTitle: Gnat - Eminem
 
 - - -
 
-#### I wasn't referencin' the vice president, chill
+> I wasn't referencin' the vice president, chill
 
 ここでマイク・ペンスのくだりとつながってきました。
 さっきのは「マイクと鉛筆」って言っただけで、マイク・ペンス副大統領のことじゃないと言っています。
 これを問題視する人は過敏症なだけだから落ち着け！ってことです。
 
-こんなこと言いながら、また*mic and pencil gettin' killed*というダメ押ししてくれています。
+こう言いながら、また*mic and pencil gettin' killed*というダメ押ししてくれています。
