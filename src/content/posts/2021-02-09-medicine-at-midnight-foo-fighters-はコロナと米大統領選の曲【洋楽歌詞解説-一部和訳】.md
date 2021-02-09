@@ -7,7 +7,7 @@ tags:
 date: 2021-02-09 17:12
 description: 現役翻訳者（本当はiOS開発者）による洋楽歌詞考察系ブログ。事前調査で面白かったものや役に立ちそうな内容を記事にしています。自分のメモ的な役割です。英語学習にご活用いただければうれしいです！取り上げるジャンルはヒップホップが多くなるかもしれないですが、ロックやブルースを特に聴いてる人です。今回はフー・ファイターズ『メディシン・アット・ミッドナイト』を取り上げています。
 featuredImage: /assets/medicine_at_midnight.jpg
-videoSrcURL: https://www.youtube.com/watch?v=PeFcpUxkYmg
+videoSrcURL: https://www.youtube.com/embed/PeFcpUxkYmg
 videoTitle: Medicine At Midnight - Foo Fighters
 ---
 ## 概要
