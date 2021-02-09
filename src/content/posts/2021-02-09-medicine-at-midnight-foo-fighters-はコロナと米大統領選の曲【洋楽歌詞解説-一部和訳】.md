@@ -26,7 +26,7 @@ videoTitle: Medicine At Midnight - Foo Fighters
 > *Say a prayer and close the light, thumb upon the scale*
 >
 > *The pillow is cold, that ship has sailed*
->
+
 > *祈りを捧げて電気を消そう、嘘をついてるのは分かってる*
 >
 > *枕は冷たい、もう後戻りはできなかった*
@@ -44,7 +44,7 @@ videoTitle: Medicine At Midnight - Foo Fighters
 *prayer*は祈り。*close the light*は文字通り、光を遮断すること。つまり電気を消す
 。寝る前に祈りを捧げてるわけです。
 
----
+
 
 > thumb upon the scale
 
@@ -54,13 +54,13 @@ videoTitle: Medicine At Midnight - Foo Fighters
 その秤を*scale*と言うんですが、それにわざと親指で重さを上乗せしてたことから。
 どこの出典かわかりませんが、そこからそんな意味になったらしい。
 
----
+
 
 > The pillow is cold
 
 これは文字通りで解説も何もいらないですが、心境がそのまま出てるところです。
 
----
+
 
 > that ship has sailed
 
