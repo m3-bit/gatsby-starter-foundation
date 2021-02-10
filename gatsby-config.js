@@ -80,13 +80,20 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Foundation`,
-        short_name: `Foundation`,
+        name: `KoolmusiK`,
+        short_name: `KoolmusiK`,
         start_url: `/`,
         background_color: `#f7f0eb`,
         theme_color: `#a2466c`,
         display: `standalone`,
         icon: "static" + settings.meta.iconimage,
+      },
+    },
+    {
+      resolve: `gatsby-plugin-remote-images`,
+      options: {
+        nodeType: 'remoteImg',
+        imagePath: 'imgUrl',
       },
     },
     'gatsby-plugin-offline',

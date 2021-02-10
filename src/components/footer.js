@@ -11,7 +11,7 @@ const Footer = () => (
     }}
   >
     <div className="container">
-      <p>KoolmusiK developed by <Link to="/">m3-bit</Link></p>
+      <p>KoolmusiK developed by m3-bit</p>
     </div>
   </footer>
 )

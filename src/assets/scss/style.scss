@@ -2,6 +2,7 @@
 @import "defaults";
 @import "lib/css-grid-utility";
 @import url('https://fonts.googleapis.com/css2?family=Audiowide&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,600&display=swap');
 // .primary-container {
 // 	display: grid;
 // 	grid-template-rows: 60px auto 60px;
@@ -231,7 +232,8 @@ article figure {
 article blockquote {
 	margin-left: 0;
 	padding: 5px 5px 5px 20px;
-	border-left: 3px solid rgba(0,0,0,0.1);
+	border-left: 8px solid #FF6347;
+	font-family: Raleway;
 }
 article iframe {
 	border: 2px solid black;
@@ -400,7 +402,7 @@ article img {
 		p {
 			font-size: 14px;
 			margin: 0 0 5px;
-			color: #3c3539;
+			color: #f75990;
 		}
 		a {
 			font-weight: normal;
