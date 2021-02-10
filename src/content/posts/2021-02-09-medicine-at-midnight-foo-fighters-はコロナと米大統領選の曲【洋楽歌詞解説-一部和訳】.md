@@ -15,7 +15,7 @@ videoTitle: Medicine At Midnight - Foo Fighters
 フー・ファイターズ10枚目のアルバム*[Medicine At Midnight](https://amzn.to/3oXqG3W)*からの曲。このアルバムは今までのフーファイとは違ってよりポップなアルバムです。
 
 
-この曲は特にボウイっぽい。そう思いながら聞いてたら、[本当にそんな感じらしく](https://pitchfork.com/news/dave-grohl-compares-foo-fighters-new-album-to-david-bowies-lets-dance/)、EDMでもディスコでもない、ダンスレコードになっています。
+この曲は特にボウイっぽい。そう思いながら聞いてたら、[本当にそんな感じらしく](https://pitchfork.com/news/dave-grohl-compares-foo-fighters-new-album-to-david-bowies-lets-dance/)、EDMでもディスコでもない、ダンスチューンになっています。
 
 
 
@@ -39,14 +39,14 @@ videoTitle: Medicine At Midnight - Foo Fighters
 
 ## 解説
 
-> Say a prayer and close the light
+> *Say a prayer and close the light*
 
 *prayer*は祈り。*close the light*は文字通り、光を遮断すること。つまり電気を消す
 。寝る前に祈りを捧げてるわけです。
 
 
 
-> thumb upon the scale
+> *thumb upon the scale*
 
 このイディオム知らなかったです。*thumb on the scale*で「（ごまかして）有利にする」の意味。
 
@@ -56,21 +56,22 @@ videoTitle: Medicine At Midnight - Foo Fighters
 
 
 
-> The pillow is cold
+> *The pillow is cold*
 
 これは文字通りで解説も何もいらないですが、心境がそのまま出てるところです。
 
 
 
-> that ship has sailed
+> *that ship has sailed*
 
 これもイディオムです。
 
 船はもう出てしまった = 時すでに遅し
 
-現代であれば、次の船待てばええやん、とかいろいろ選択肢はあると思うんですが、その昔は一度逃してしまえば次はいつかわからないくらいでした。
+現代であれば、次の船待てばええやん、とかいろいろ選択肢はあると思うんですが、その昔は一度逃してしまえば次はいつチャンスがあるかわからないくらいでした。
 
 - - -
 
 ダンスチューンやのに歌詞が全体的に暗いのはなんでだろう。
+
 ちなみに*pink turned to blue*っていう歌詞が出てくるんですが、これってハスカー・ドゥーの曲？とか思ったりしている。
