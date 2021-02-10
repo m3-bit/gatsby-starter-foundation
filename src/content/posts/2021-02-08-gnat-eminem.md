@@ -28,7 +28,7 @@ videoTitle: Gnat - Eminem
 > *Ain't nothin' you say could ever trump, mic, pencil get killed*
 >
 > *If you're hypersensitive, I wasn't referencin' the vice president, chill*
->
+
 > *お前が吐く言葉で勝てるわけないだろ、マイク、ペンシルはぶちのめされるさ*
 >
 > *過敏症なの？ 別に副大統領のことを言ってるわけじゃないから落ち着けよ*
@@ -41,7 +41,7 @@ videoTitle: Gnat - Eminem
 
 ## 解説
 
-> Ain't nothing you say could ever trump
+> *Ain't nothing you say could ever trump*
 
 ここの部分はもろに大統領選の話題。
 
@@ -49,7 +49,7 @@ videoTitle: Gnat - Eminem
 
 *nothing you say*は「何を言ったところで」っていう感じですが、これは他のラッパーに向けた言葉です。「どんな言葉を吐いたところでお前は勝てない」、要するにどんなラッパーが挑戦したところでエミネムには勝てない、という売り言葉です。
 
-> mic, pencil get killed
+> *mic, pencil get killed*
 
 そしてラップに必要なものはマイクと鉛筆。
 比喩的に「（俺に挑戦したところで）お前のマイクと鉛筆は殺される」と畳みかけてるわけです。
@@ -57,17 +57,16 @@ videoTitle: Gnat - Eminem
 で、これどう聞いても、*Mike Pence'll get killed（マイク・ペンスは殺される）*に聞こえるところがミソ。
 マイク・ペンスはトランプ政権時の副大統領。
 
-> If you're hypersensitive
+> *If you're hypersensitive*
 
 *hypersensitive*は「過敏症」のこと。
 
-マイク・ペンス...と聞こえたならあなたは過敏症です。と仮定して次に続きます。
+マイク・ペンス...と聞こえたならあなたは過敏症です、と仮定して次に続きます。
 
-> I wasn't referencin' the vice president, chill
+> *I wasn't referencin' the vice president, chill*
 
 ここでマイク・ペンスのくだりとつながってきました。
-さっきのは「マイクと鉛筆」って言っただけで、マイク・ペンス副大統領のことじゃないと言っています。
-これを問題視する人は過敏症なだけだから落ち着け！ってことです。
+さっきのは「マイクと鉛筆」って言っただけで、マイク・ペンス副大統領のことじゃないから！これを問題視する人は過敏症なだけだから落ち着け！ってことです。
 
 ---
 
