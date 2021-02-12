@@ -13,7 +13,7 @@ videoTitle: Grapes of Wrath - Weezer
 ---
 ## 概要
 
-ウィーザー14枚目のアルバム*[OK, Human](https://amzn.to/3aXHmTS)*からの曲。レディオヘッドの\*OK, Computer\*とテーマは似てるけど、サウンドはオーケストラ調のポップロック。
+ウィーザー14枚目のアルバム*[OK, Human](https://amzn.to/3aXHmTS)*からの曲。レディオヘッドの*OK, Computer*とテーマは似てるけど、サウンドはオーケストラ調のポップロック。
 
 タイトルの*Grapes of Wrath*はジョン・スタインベックの小説「怒りの葡萄」から取っています。[眠れない夜にこの本をAudibleで聴いてたらしい](https://www.audible.com/blog/interview/behind-weezer-ok-human-audible-inspired-track)。
 
@@ -24,7 +24,7 @@ videoTitle: Grapes of Wrath - Weezer
 > *Count on me to show support for Winston Smith in 1984*
 >
 > *'Cause battling Big Brother feels more meaningful than binging zombie hordes*
->
+
 > *『1984年』に出てくるウィンストン・スミスは応援するから、そこは任せて*
 >
 > *だってビッグ・ブラザーと戦う方が、ゾンビ動画をただただ見てるよりは意味があるし*
