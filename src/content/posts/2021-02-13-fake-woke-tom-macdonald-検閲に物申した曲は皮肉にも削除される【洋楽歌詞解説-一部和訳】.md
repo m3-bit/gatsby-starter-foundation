@@ -30,7 +30,7 @@ videoTitle: Fake Woke  - Tom MacDonald
 > *They're underfunded already, they're way too busy to work*
 >
 > *Order food and call the cops, see what reaches you first*
-
+>
 > *外で起きる暴動は日に日に過激になっていく*
 >
 > *「警察予算をカットしろ」と叫んで、みんな天才かよ*
@@ -49,7 +49,7 @@ videoTitle: Fake Woke  - Tom MacDonald
 
 > *There's riots in our streets, and it's just gettin' worse*
 
-[Black Lives Matter](https://blacklivesmatter.com/)の暴動のことです。似たような運動は前からありましたが、これに関してはジョージ・フロイド事件が発端の暴動です。この事件は白人警察により黒人のジョージ・フロイドは拘束された際に、首を8分以上踏みつけられ息ができない状態になり、心肺停止で亡くなりました。警察は抵抗したからと弁明していましたが、一般人が撮影していた動画ではそんな様子は見られませんでした。
+[Black Lives Matter](https://blacklivesmatter.com/)の暴動のことです。似たような運動は前からありましたが、これに関してはジョージ・フロイド事件が発端の暴動です。白人警察により黒人のジョージ・フロイドは拘束された際に、首を8分以上踏みつけられ息ができない状態になり、心肺停止で亡くなりました。警察は抵抗したからと弁明していましたが、一般人が撮影していた動画ではそんな様子は見られませんでした。
 
 この事件の翌日からデモが始まり、日に日に過激さを増していきました。
 
