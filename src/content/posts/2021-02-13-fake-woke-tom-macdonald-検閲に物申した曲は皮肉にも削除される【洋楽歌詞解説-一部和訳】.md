@@ -15,7 +15,7 @@ videoTitle: Fake Woke  - Tom MacDonald
 
 トム・マクドナルドの“問題作”*[Fake Woke](https://amzn.to/37b1qRI)*。
 
-*woke*という言葉は「社会問題に対して意識がある」意味で、そういったことを意識しとけよって感じで*stay woke*はよく使われます。
+*woke*という言葉は「社会問題に対して意識がある」という意味で、社会問題を意識してる状態を*stay woke*と言って、この言葉はよく使われます。
 
 しかし最近*fake woke*という言葉が流行っていて、要するにそれっぽいことを主張すること、そんな議論が空振りしてることを*fake woke*と言ったりします。
 
@@ -30,7 +30,7 @@ videoTitle: Fake Woke  - Tom MacDonald
 > *They're underfunded already, they're way too busy to work*
 >
 > *Order food and call the cops, see what reaches you first*
->
+
 > *外で起きる暴動は日に日に過激になっていく*
 >
 > *「警察予算をカットしろ」と叫んで、みんな天才かよ*
