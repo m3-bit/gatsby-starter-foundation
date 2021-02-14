@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Fake Woke  - Tom MacDonald 検閲に物申した曲は皮肉にも削除される【洋楽歌詞解説 & 一部和訳】
+title: Fake Woke  - Tom MacDonald | 検閲に物申すも削除される闇【洋楽歌詞解説 & 一部和訳】
 slug: /fake-woke-tom-macdonald
 tags:
   - Tom MacDonald
@@ -30,7 +30,7 @@ videoTitle: Fake Woke  - Tom MacDonald
 > *They're underfunded already, they're way too busy to work*
 >
 > *Order food and call the cops, see what reaches you first*
->
+
 > *外で起きる暴動は日に日に過激になっていく*
 >
 > *「警察予算をカットしろ」と叫んで、みんな天才かよ*
