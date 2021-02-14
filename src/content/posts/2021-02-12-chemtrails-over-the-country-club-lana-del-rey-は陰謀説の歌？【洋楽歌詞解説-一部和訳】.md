@@ -1,6 +1,7 @@
 ---
 template: blog-post
-title: Chemtrails over the Country Club  - Lana Del Rey は陰謀説の歌？【洋楽歌詞解説 & 一部和訳】
+title: Chemtrails over the Country Club  - Lana Del Rey |
+  豊かな暮らしに影を落とす陰謀説？【洋楽歌詞解説 & 一部和訳】
 slug: /chemtrails-over-the-country-club-lana-del-rey
 tags:
   - Lana Del Rey
