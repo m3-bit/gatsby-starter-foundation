@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: C’est La Vie - The Killers が繰り出す対義語が面白い【洋楽歌詞解説 & 一部和訳】
+title: C’est La Vie - The Killers | 繰り出す対義語がユニークすぎる【洋楽歌詞解説 & 一部和訳】
 slug: /cest-la-vie-the-killers
 tags:
   - The Killers
