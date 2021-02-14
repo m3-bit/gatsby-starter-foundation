@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Genocidal Humanoidz  - System of a Down は2020年に起きた戦争【洋楽歌詞解説 & 一部和訳】
+title: Genocidal Humanoidz  - System of a Down は2020年の戦争被害を訴える【洋楽歌詞解説 & 一部和訳】
 slug: /genocidal-humanoidz-system-of-a-down
 tags:
   - System of a Down
@@ -15,9 +15,11 @@ videoTitle: Genocidal Humanoidz  - System of a Down
 
 システム・オブ・ア・ダウンの約14年ぶりのシングル*[Genocidal Humanoidz](https://amzn.to/3d8HkeL)*。
 
-ジェノサイドという言葉が入っているので平和でないことは明らかなんですが、これは2020年ナゴルノ・カラバフ紛争について歌った曲。2020年の9〜11月に、アルツァフ共和国(別名ナゴルノ・カラバフ共和国)を巡って、アゼルバイジャンとアルメニアが軍事衝突しました。
+ジェノサイドという言葉が入っている時点で平和でないことは明らかなんですが、これは[2020年ナゴルノ・カラバフ紛争](https://ja.wikipedia.org/wiki/2020%E5%B9%B4%E3%83%8A%E3%82%B4%E3%83%AB%E3%83%8E%E3%83%BB%E3%82%AB%E3%83%A9%E3%83%90%E3%83%95%E7%B4%9B%E4%BA%89)について歌った曲です。
 
-彼らの出身地はアルメニア。アゼルバイジャンとその支援国トルコによって、アルツァフとアルメニアが侵略されるだけでなく、ジェノサイドを行っていると[Facebookで訴えていました](https://www.facebook.com/systemofadown/posts/we-as-system-of-a-down-have-just-released-new-music-for-the-first-time-in-15-yea/10158117604524032/)。
+2020年の9〜11月に、アルツァフ共和国(別名ナゴルノ・カラバフ共和国)を巡って、アゼルバイジャンとアルメニアが軍事衝突し、多くの死者を出しました。
+
+彼らの出身地はアルメニア。敵国が行う残虐行為広によりアルメニアとアルツァフが危機的な状況にあることを広めるために作った曲だと[Facebookで訴えていて](https://www.facebook.com/systemofadown/posts/we-as-system-of-a-down-have-just-released-new-music-for-the-first-time-in-15-yea/10158117604524032/)、母国のアルメニアを守るために[アルメニア基金](https://www.himnadram.org)へ寄付を行っています。
 
 ついに新曲キター！！と思って聴いたら、なんだか喜んでいいのかよくわからん感情になりました。
 
@@ -28,11 +30,10 @@ videoTitle: Genocidal Humanoidz  - System of a Down
 > *Terrorists we're fighting and we're never gonna stop*
 >
 > *The prostitutes who prosecute have failed us from the start*
-
-
+>
 > *テロリストと戦い続ける、誰にも止められやしない*
 >
-> *娼婦は始めから俺らを陥れようとしてただろ*
+> *娼婦みたいなヤツらは、始めから向こうの肩を持ってた*
 
 <div align="center">
 
@@ -44,20 +45,18 @@ videoTitle: Genocidal Humanoidz  - System of a Down
 
 > *Terrorists we're fighting and we're never gonna stop*
 
-アゼルバイジャン側のトルコの指示により、[ISISを含むシリアからテロリストがアルメニアに攻撃を仕掛けました](https://nationalpost.com/news/armenia-azerbaijan-accuse-each-other-of-cross-border-attacks-civilian-toll-climbs)。
+テロリスト...なんですよね。アゼルバイジャン側についていたトルコの指示により、[シリアからのテロリストがアルメニアに攻撃を仕掛けていたようです](https://nationalpost.com/news/armenia-azerbaijan-accuse-each-other-of-cross-border-attacks-civilian-toll-climbs)。
 
 > *The prostitutes who prosecute have failed us from the start*
 
-ここで*prostitutes*が出てくるんですが、普通は娼婦のことです。おそらく「金で言うことを聞く」というニュアンスで国連のことを糾弾しているのではないかと言われています。
+*prostitutes*は娼婦のことです。ここではおそらく「金で言うことを聞く」というニュアンスで、国連のことを糾弾しているのではないかと言われています。
 
-実はこの紛争、第二次ナゴルノ・カラバフ紛争とも言われていて、両国は1988年から1994年にかけてこの領地争いをしていました。
+実はこの紛争、「第二次ナゴルノ・カラバフ紛争」とも言われていて、1988〜1994年にかけて「第一次ナゴルノ・カラバフ紛争」が勃発していました。
 
-その後2008年にまたもやナゴルノ・カラバフを巡る、第一次マルダケルト衝突が起きました。ここで国連が登場し、アルメニア軍はアゼルバイジャンの領地から直ちに立ち去れ的な国連安保理決議を締結しました。要するにアゼルバイジャン側はそれによって守られる、しかしアルメニア側を守る条約はないという不公平が生まれていました。
+その後2008年にまたもやアルツァフを巡る、「第一次マルダケルト衝突」が起きました。この時に国連が登場し、アルメニア軍はアゼルバイジャンの領地から直ちに立ち去らなければならないという趣旨の国連安保理決議が締結されました。要するにアゼルバイジャン側はそれによって守られる、しかしアルメニア側を守る条約はないという不公平が生まれていました。
 
-2020年ナゴルノ・カラバフ紛争はアゼルバイジャン優勢で一応終わったのですが、こういった背景があり始めから不利だったことを主張しています。
+2020年の紛争はアゼルバイジャン優勢で一応終わったのですが、こういった背景があり始めから不利だったことを主張しています。
 
 - - -
 
-戦死者はアゼルバイジャン側とアルメニア側を合わせて5,000人以上。[この記事では](https://www.bbc.com/news/world-europe-55174211)アルメニア側は約2,400人とされていますが、まだ不明者が700人ほどいるため、[3,400人くらいに上るのではないかという情報もあります](https://tass.com/world/1247091)。*人数に市民は含まれていません*
-
-母国のアルメニアを守るために[アルメニア基金](https://www.himnadram.org)へ寄付を行っています。
+ちなみに戦死者はアゼルバイジャン側とアルメニア側を合わせて5,000人以上。[この記事では](https://www.bbc.com/news/world-europe-55174211)アルメニア側は約2,400人とされていますが、まだ不明者が多数で、[3,400人くらいに上るのではないかという情報もあります](https://tass.com/world/1247091)。市民の犠牲者を含めたらもっと。
