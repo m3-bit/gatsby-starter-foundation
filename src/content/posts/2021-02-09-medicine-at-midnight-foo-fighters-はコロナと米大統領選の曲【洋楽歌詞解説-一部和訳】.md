@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Medicine At Midnight - Foo Fighters はボウイを思い出すダンスチューン【洋楽歌詞解説 & 一部和訳】
+title: Medicine At Midnight - Foo Fighters | 歌詞が重めのボウイ的ダンスチューン【洋楽歌詞解説 & 一部和訳】
 slug: /medicine-at-midnight-foo-fighters
 tags:
   - Foo Fighters
