@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Genocidal Humanoidz  - System of a Down は2020年の戦争被害を訴える【洋楽歌詞解説 & 一部和訳】
+title: Genocidal Humanoidz  - System of a Down | 2020年最悪の戦争被害を訴える【洋楽歌詞解説 & 一部和訳】
 slug: /genocidal-humanoidz-system-of-a-down
 tags:
   - System of a Down
