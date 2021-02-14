@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Gnat - Eminem はコロナと米大統領選の曲【洋楽歌詞解説 & 一部和訳】
+title: Gnat - Eminem | ブヨ退治はコロナ対策とニアイコール【洋楽歌詞解説 & 一部和訳】
 slug: /gnat-eminem
 tags:
   - Eminem
