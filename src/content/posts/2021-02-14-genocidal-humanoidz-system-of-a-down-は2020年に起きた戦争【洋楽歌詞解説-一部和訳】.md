@@ -19,7 +19,7 @@ videoTitle: Genocidal Humanoidz  - System of a Down
 
 2020年の9〜11月に、アルツァフ共和国(別名ナゴルノ・カラバフ共和国)を巡って、アゼルバイジャンとアルメニアが軍事衝突し、多くの死者を出しました。
 
-彼らの出身地はアルメニア。敵国が行う残虐行為によりアルメニアとアルツァフが危機的な状況にあることを広めるために作った曲だと[Facebookで訴えていて](https://www.facebook.com/systemofadown/posts/we-as-system-of-a-down-have-just-released-new-music-for-the-first-time-in-15-yea/10158117604524032/)、母国のアルメニアを守るために[アルメニア基金](https://www.himnadram.org)へ寄付を行っています。
+彼らの出身地はアルメニア。敵国が行う残虐行為によりアルメニアとアルツァフが危機的な状況にあることを広めるためだと[Facebookで語っていて](https://www.facebook.com/systemofadown/posts/we-as-system-of-a-down-have-just-released-new-music-for-the-first-time-in-15-yea/10158117604524032/)、母国のアルメニアを守るために[アルメニア基金](https://www.himnadram.org)へ寄付を行っています。
 
 ついに新曲キター！！と思って聴いたら、なんだか喜んでいいのかよくわからん感情になりました。
 
@@ -45,11 +45,11 @@ videoTitle: Genocidal Humanoidz  - System of a Down
 
 > *Terrorists we're fighting and we're never gonna stop*
 
-テロリスト...なんですよね。アゼルバイジャン側についていたトルコの指示により、[シリアからのテロリストがアルメニアに攻撃を仕掛けていたようです](https://nationalpost.com/news/armenia-azerbaijan-accuse-each-other-of-cross-border-attacks-civilian-toll-climbs)。
+ただの敵じゃなくて*terrorists*。アゼルバイジャン側についていたトルコの指示により、[シリアからのテロリストがアルメニアに攻撃を仕掛けていたようです](https://nationalpost.com/news/armenia-azerbaijan-accuse-each-other-of-cross-border-attacks-civilian-toll-climbs)。
 
 > *The prostitutes who prosecute have failed us from the start*
 
-*prostitutes*は娼婦のことです。ここではおそらく「金で言うことを聞く」というニュアンスで、国連のことを糾弾しているのではないかと言われています。
+*prostitutes*は「娼婦」で、*prosecute*は「起訴する」の意味。ここではおそらく「金で言うことを聞く」というニュアンスで、国連のことを糾弾しているのではないかと言われています。
 
 実はこの紛争、「第二次ナゴルノ・カラバフ紛争」とも言われていて、1988年に「第一次ナゴルノ・カラバフ紛争」が勃発していました。
 
