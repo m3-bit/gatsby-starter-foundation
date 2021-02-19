@@ -54,3 +54,7 @@ YouTubeの王者[PewDiePie](https://www.youtube.com/user/PewDiePie)の通算3枚
 - - -
 
 Cocomelonのディストラックのわりに、6ix9ineの方に当たり強いやん！J.K.ローリングに対しても手厳しかったけど、まあこれは仕方ないかな。
+
+---
+※追記
+2021/2/18にMVはYouTubeポリシー違反で削除されました。
