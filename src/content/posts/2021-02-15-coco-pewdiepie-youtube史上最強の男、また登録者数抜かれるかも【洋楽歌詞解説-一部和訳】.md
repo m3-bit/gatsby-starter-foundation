@@ -1,4 +1,43 @@
 ---
+"0": ※
+"1": 追
+"2": 記
+"3": " "
+"4": "2"
+"5": "0"
+"6": "2"
+"7": "1"
+"8": /
+"9": "2"
+"10": /
+"11": "1"
+"12": "8"
+"13": に
+"14": M
+"15": V
+"16": は
+"17": Y
+"18": o
+"19": u
+"20": T
+"21": u
+"22": b
+"23": e
+"24": ポ
+"25": リ
+"26": シ
+"27": ー
+"28": 違
+"29": 反
+"30": で
+"31": 削
+"32": 除
+"33": さ
+"34": れ
+"35": ま
+"36": し
+"37": た
+"38": 。
 template: blog-post
 title: Coco  - PewDiePie | YouTube史上最強の男、また登録者数抜かれるかも【洋楽歌詞解説 & 一部和訳】
 slug: /coco-pewdiepie
@@ -8,9 +47,10 @@ tags:
 date: 2021-02-15 23:22
 description: 現役翻訳者（本当はiOS開発者）による洋楽歌詞考察系ブログ。事前調査で面白かったものや役に立ちそうな内容を記事にしています。自分のメモ的な役割です。英語学習にご活用いただければうれしいです！取り上げるジャンルはヒップホップが多くなるかもしれないですが、ロックやブルースを特に聴いてる人です。今回はピューディーパイ『ココ』を取り上げています。
 featuredImage: /assets/coco.jpg
-videoSrcURL: https://www.youtube.com/embed/9DHuHkwaWWs
+videoSrcURL: https://www.youtube.com/embed/FWPWrz7pIz4
 videoTitle: Coco  - PewDiePie
 ---
+
 ## 概要
 
 YouTubeの王者[PewDiePie](https://www.youtube.com/user/PewDiePie)の通算3枚目のシングル*[Coco](#)*。
@@ -54,7 +94,3 @@ YouTubeの王者[PewDiePie](https://www.youtube.com/user/PewDiePie)の通算3枚
 - - -
 
 Cocomelonのディストラックのわりに、6ix9ineの方に当たり強いやん！J.K.ローリングに対しても手厳しかったけど、まあこれは仕方ないかな。
-
----
-※追記
-2021/2/18にMVはYouTubeポリシー違反で削除されました。
